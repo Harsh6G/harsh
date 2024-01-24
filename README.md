@@ -9,7 +9,7 @@
 
   <div>
     <div align="center">
-        <a href="https://github.com/ritikgupta06"><img src="ritik.png" height="400" /></a>
+        <a href="https://github.com/ritikgupta06"><img src="ritik.png" height="200" /></a>
     </div>
 
     
