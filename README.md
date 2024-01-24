@@ -133,23 +133,8 @@
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
 
-    <br><br>
-</div>
-    <br><br>
-</div>
-</div>
-<hr>
-
-<!-- About me  -->
 
 
-```py
-
-}
-```
-<hr>
-
-<!-- PARA -->
 
 
 
