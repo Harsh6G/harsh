@@ -1,5 +1,5 @@
 <!-- Visitor Count  -->
-<a href="https://komarev.com/ghpvc/?username=myselfshivams">
+<a href="https://komarev.com/ghpvc/?username=myselfRitik">
   <img align="right" src="https://komarev.com/ghpvc/?username=ritikgupta06s&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -16,7 +16,7 @@
 
 <!-- Readme-Typing  -->
   <div align="center">
-        <a href="https://github.com/myselfshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
+        <a href="https://github.com/ritikgupta06"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
 
 
@@ -24,7 +24,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/itshivam/">Ritik Gupta</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/ritikgupta2026/">Ritik Gupta</a></b>
         </samp>
   
 </h3>
@@ -32,7 +32,7 @@
 <!-- Search  -->
 <p align="center"> 
   <samp>
-    <a href="https://www.linkedin.com/in/itshivam/">「 Connect with me 」</a>
+    <a href="https://www.linkedin.com/in/ritikgupta2026/">「 Connect with me 」</a>
     <br>
     「 I am full stack Web Developer 」
     <br>
