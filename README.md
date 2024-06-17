@@ -24,7 +24,7 @@
 <p align="center"> 
     <samp>
         <a href="https://www.linkedin.com/in/ritikgupta2026/">
-            <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="20" height="20"> Connect with me on LinkedIn
+            <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="20" height="20"> Connect with me on LinkedIn
         </a>
         <br>
         「 I am a full stack Web Developer 」
