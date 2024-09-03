@@ -5,7 +5,7 @@
 
 <!-- Ritik's Icon  -->
 <div align="center">
-    <a href="https://github.com/ritikgupta06"><img src="https://media.licdn.com/dms/image/D5603AQEW6CNr3E-AJw/profile-displayphoto-shrink_400_400/0/1703953203750?e=1724284800&v=beta&t=j2NXidaLVr6lsySb15Wjvu8lSWUgdPKwbzpJY5YY348" height="300" /></a>
+    <a href="https://github.com/ritikgupta06"><img src="main.jpg" height="300" width="300px" /></a>
 </div>
 
 <!-- Readme-Typing  -->
