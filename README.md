@@ -5,7 +5,7 @@
 
 <!-- Harsh's Icon  -->
 <div align="center">
-    <a href="https://github.com/Harsh6g"><img src="[mypro2.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbmP3_SQao17BQBjdLV-C1udoNAAFzH5V_Q&s)" height="300" /></a>
+    <a href="https://github.com/Harsh6g"><img src="[s.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbmP3_SQao17BQBjdLV-C1udoNAAFzH5V_Q&s)" height="300" /></a>
 </div>
 
 <!-- Readme-Typing  -->
