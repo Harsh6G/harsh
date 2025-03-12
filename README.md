@@ -1,29 +1,29 @@
 <!-- Visitor Count  -->
 <a href="https://komarev.com/ghpvc/?username=myselfHarsh">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ritikgupta06s&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=HarshDixit06s&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<!-- Ritik's Icon  -->
+<!-- Harsh's Icon  -->
 <div align="center">
     <a href="https://github.com/Harsh6g"><img src="[mypro2.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbmP3_SQao17BQBjdLV-C1udoNAAFzH5V_Q&s)" height="300" /></a>
 </div>
 
 <!-- Readme-Typing  -->
 <div align="center">
-    <a href="https://github.com/Harsh6g"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritik%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
+    <a href="https://github.com/Harsh6g"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
 </div>
 
 <!-- Intro  -->
 <h3 align="center">
     <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/ritikgupta2026/">Ritik Gupta</a></b>
+        <b><a target="_blank" href="https://www.linkedin.com/in/HarshDixit2026/">Harsh Dixit</a></b>
     </samp>
 </h3>
 
 <!-- Connect with me -->
 <p align="center"> 
     <samp>
-        <a href="https://www.linkedin.com/in/ritikgupta2026/">
+        <a href="https://www.linkedin.com/in/HarshDixit2026/">
             <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="20" height="20"> Connect with me on LinkedIn
         </a>
         <br>
