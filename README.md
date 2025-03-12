@@ -1,6 +1,6 @@
 <!-- Visitor Count  -->
 <a href="https://komarev.com/ghpvc/?username=myselfHarsh">
-  <img align="right" src="[https://komarev.com/ghpvc/?username=HarshDixit06s&label=Visitors&color=0e75b6&style=flat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5aHSueg2EaeHtHphwcCvOL6GaDgnnIlhqA&s)" alt="Profile visitor" />
+  <img align="right" src="s.png" alt="Profile visitor" />
 </a>
 
 <!-- Harsh's Icon  -->
