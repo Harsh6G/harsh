@@ -1,5 +1,5 @@
 <!-- Visitor Count  -->
-<a href="https://komarev.com/ghpvc/?username=myselfRitik">
+<a href="https://komarev.com/ghpvc/?username=myselfHarsh">
   <img align="right" src="https://komarev.com/ghpvc/?username=ritikgupta06s&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
